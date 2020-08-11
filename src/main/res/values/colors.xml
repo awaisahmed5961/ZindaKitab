@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8CA6EC</color>
+    <color name="colorPrimaryDark">#4F67A6</color>
+    <color name="colorAccent">#8CA6EC</color>
+
+    <color name="MainColor1">#4BADBB</color>
+    <color name="Color4">#4BADBB</color>
+    <color name="Color5">#259BAC</color>
+    <color name="Color6">#18616C</color>
+
+    <color name="MainColor">#8CA6EC</color>
+    <color name="Color1">#8CA6EC</color>
+    <color name="Color2">#6B85CA</color>
+    <color name="Color3">#4F67A6</color>
+
+
+</resources>

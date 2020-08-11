@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZindaKitab</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_courses">Courses</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_register_course">Register Course</string>
+    <string name="title_profile">Profile</string>
+</resources>

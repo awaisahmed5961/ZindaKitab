@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dashboard">
+
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.zindakitab.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_courses"
+        android:name="com.example.zindakitab.ui.courses.CoursesFragment"
+        android:label="@string/title_courses"
+        tools:layout="@layout/fragment_courses" />
+
+    <fragment
+        android:id="@+id/navigation_regsiter_course"
+        android:name="com.example.zindakitab.ui.RegsiterCourse.RegisterCourseFragment"
+        android:label="@string/title_register_course"
+        tools:layout="@layout/fragment_register_course" />
+    <fragment
+        android:id="@+id/navigation_Profile"
+        android:name="com.example.zindakitab.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>
